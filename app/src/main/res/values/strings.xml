@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ObviousControl</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGFueWxvdXNlciIsImEiOiJjbGhldTBwZ2MwMmJrM25wZnZwcWVzY2tlIn0.49-qNb8NGNF_8YZiT4RGYw</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">Submit</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to log out?</string>
+    <string name="log_out">Log out</string>
+    <string name="enter_a_message_you_want_to_send">Enter a message you want to send</string>
+    <string name="send">Send</string>
+    <string name="helmet">Helmet</string>
+    <string name="description">Description</string>
+    <string name="sensors">Sensors</string>
+    <string name="date_start">Date Start</string>
+    <string name="date_end">Date End</string>
+    <string name="min_value">Min. Value</string>
+    <string name="max_value">Max. Value</string>
+    <string name="getline">Submit</string>
+    <string name="sensorsnav">Sensors</string>
+    <string name="notifynav">Notify</string>
+    <string name="log_outnav">Log Out</string>
+    <string name="operationfailed">Operation failed. Invalid response.</string>
+    <string name="erroroccured">An error occurred.</string>
+    <string name="msgcantbeempty">Message cannot be empty</string>
+    <string name="sensorsnamenotdefined">The name is not defined</string>
+    <string name="sensorsdescnotdefined">The description is not defined</string>
+    <string name="donthavehelmet">You don\'t have a helmet.</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObviousControl</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGFueWxvdXNlciIsImEiOiJjbGhldTBwZ2MwMmJrM25wZnZwcWVzY2tlIn0.49-qNb8NGNF_8YZiT4RGYw</string>
+
+    <string name="login">Авторизуватися</string>
+    <string name="username">Юзернейм</string>
+    <string name="password">Пароль</string>
+    <string name="loginbtn">Увійти</string>
+    <string name="are_you_sure_you_want_to_log_out">Ви певні, що хочете вийти із системи?</string>
+    <string name="log_out">Вийти</string>
+    <string name="enter_a_message_you_want_to_send">Введіть повідомлення</string>
+    <string name="send">Відправити</string>
+    <string name="helmet">Каска</string>
+    <string name="description">Опис</string>
+    <string name="sensors">Датчики</string>
+    <string name="date_start">Час початк.</string>
+    <string name="date_end">Час кінц.</string>
+    <string name="min_value">Мін. знач.</string>
+    <string name="max_value">Макс. знач</string>
+    <string name="getline">Отримати</string>
+    <string name="sensorsnav">Датчики</string>
+    <string name="notifynav">Повідомлення</string>
+    <string name="log_outnav">Вийти</string>
+    <string name="operationfailed">Операція не здійснилася.</string>
+    <string name="erroroccured">Сталася помилка.</string>
+    <string name="msgcantbeempty">Повідомлення не може бути пустим</string>
+    <string name="sensorsnamenotdefined">Назва не задана</string>
+    <string name="sensorsdescnotdefined">Опис не вказаний</string>
+    <string name="donthavehelmet">Ви не маєте каски.</string>
+
+</resources>
